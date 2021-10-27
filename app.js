@@ -22,7 +22,7 @@ function askUsserForNumbers() {
       }
       console.log(arrayNumbersPrompt);
     }
-  }, 3000);
+  }, 30000);
 }
 
 askUsserForNumbers();
